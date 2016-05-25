@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sorgman Sudios]]></title>
         <description><![CDATA[Sorgman Sudios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sorgman-sudios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 01:11:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 01:14:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sorgman-sudios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348c358d-e515-4352-a5af-23ef600e72ec.jpg">]]></description>
+            <link>https://thegrid.ai/sorgman-sudios/0ce8ce64-7675-41a5-9f02-883c7e69b890/index.html</link>
+            <guid isPermaLink="false">0ce8ce64-7675-41a5-9f02-883c7e69b890</guid>
+            <pubDate>Wed, 25 May 2016 01:13:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Activist's Handbook & Entertainment Guide Volume 3 Issue 2.0 | FlipHTML5]]></title>
             <description><![CDATA[<article><h1>Activist's Handbook & Entertainment Guide Volume 3 Issue 2.0 | FlipHTML5</h1><p>The 2nd installment of 13 Fold's Third Volume, featuring more outrageous humor and cannabis news. Combining the best of "The Lost Issue" and what should be the 3rd issue, into one hysterical "in your face" salute to America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/169ba7f2f009efc29ab6fc5459634d269da4d39e.jpg"></article>]]></description>
