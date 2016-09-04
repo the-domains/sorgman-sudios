@@ -1,14 +1,26 @@
-layout_spectrum: 0.7791026402264833
-typography_spectrum: 0.3199776392430067
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.39616976981051266
-  lightness: 0.9238808727823198
-  saturation: 0.5554285089019686
-  rhythmicContrast: 0.4753709405194968
+  saturation: 0.7437276
+  brandStrength: 0.3961697698105127
+  lightness: 0
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+  rhythmicContrast: 0.3387097
+typography_spectrum: 0.3199776392430067
+layout_spectrum: 1
 name: Sorgman Sudios
